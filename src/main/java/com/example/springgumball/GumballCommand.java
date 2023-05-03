@@ -12,6 +12,6 @@ class GumballCommand {
     private String state ;
     private String timestamp ;
     private String hash ;
-    
+    //comment for workflow
 }
 
